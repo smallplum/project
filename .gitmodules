@@ -1,0 +1,4 @@
+[submodule "child_1"]
+	path = child_1
+	url = https://github.com/smallplum/ReactDemo1
+	branch = master
